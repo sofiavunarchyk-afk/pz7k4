@@ -1,3 +1,4 @@
+# ЗВІТ ПРАКТИЧНОЇ РОБОТИ № 7
 ##  Виконання завдання 1
 
 <img width="1685" height="961" alt="image" src="https://github.com/user-attachments/assets/f077b6d5-ebfe-4a8f-b126-23efb605b999" />
